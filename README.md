@@ -4,6 +4,9 @@ Welcome to my little corner of the internet! I'm an aspiring **Software Engineer
 
 
 ---
+## Leetcode
+
+<a href="https://leetcode.com/u/UB2" target="_blank"><img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/UB2?theme=dark&font=Nunito&ext=contest" /></a> 
 
 ## 🧰 My Tech Skills 
 
