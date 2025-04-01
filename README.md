@@ -4,6 +4,8 @@ Welcome to my little corner of the internet! I'm an aspiring **Software Engineer
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UB2002&theme=dracula)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UB2002&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 ## Leetcode
 
