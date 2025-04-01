@@ -2,6 +2,7 @@
 
 Welcome to my little corner of the internet! I'm an aspiring **Software Engineer**, backend enthusiast, and AI dreamer. I believe in building technology that solves real-world problems, sparks curiosity, and inspires innovation. 🚀  
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UB2002&theme=dracula)](https://git.io/streak-stats)
 
 ---
 ## Leetcode
